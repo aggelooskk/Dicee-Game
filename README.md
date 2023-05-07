@@ -1,2 +1,4 @@
-# Dicee-Game
-SImple dicee game
+# Dicee-Game.
+Simple dicee game.
+Javascript, Html, Css.
+
